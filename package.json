@@ -1,0 +1,23 @@
+{
+  "name": "ruiter-tcc",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.21.4",
+    "connect-history-api-fallback": "^1.6.0",
+    "core-js": "^3.3.2",
+    "express": "^4.17.1",
+    "serve-static": "^1.14.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "^4.0.0",
+    "@vue/cli-service": "^4.5.13",
+    "vue-template-compiler": "^2.6.10"
+  }
+}
